@@ -1,1 +1,1 @@
-# jcinform-tica
+# jcinformatica
